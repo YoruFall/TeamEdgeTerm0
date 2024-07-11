@@ -38,10 +38,11 @@ for x in colors:
     print("The color is: " + x)
 
 #-->TODO: Declare a list with at least 10 animals. You provide the animals.
-animals = []
+animals = ['ox','bull','monkey','rat','cheetah','snake','cat','dog','stingray','panther']
 
 #-->TODO: Print all the animals in the array with a for loop. 
-
+for x in animals:
+    print("the animal is" +x)
 
 
 print("------------------- CHALLENGE 3 : EVEN COUNTDOWN ------------------")
